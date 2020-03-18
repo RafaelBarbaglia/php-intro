@@ -5,7 +5,7 @@
     <title>Formulário de inscrição</title>
     <meta name="author" content="">
     <meta name="description" content="">
-    <meta name="viewport" content="width-device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 
@@ -14,7 +14,7 @@
 <form action="script.php" method="post">
     <p>Your Name: <input type="text" name="nome"/></p>
     <p>Your Age: <input type="text" name="idade"/></p>
-    <p><input type="submit"/></p>
+    <p><input type="submit" /></p>
 </form>
 </body>
 </html>
